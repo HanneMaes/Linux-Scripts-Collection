@@ -1,4 +1,4 @@
-# bash render.sh localPathToBlendFile.blend sd
+# bash render.sh localPathToBlendFile.blend sd (shutdown = optional)
 # this script renders the blend file and send a notification to my phone when the render is done with how long the render took
 # add the 'sd' parameter to shut down when the render is finished
 
